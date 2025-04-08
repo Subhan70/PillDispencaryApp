@@ -1,0 +1,17 @@
+[
+    {
+        "profile_number": 1,
+        "Name": "Sandosh",
+        "Age":34,
+        "gender":"Female",
+        "height":{"value":169,"updated":"May 2023"},
+        "weight":{"value":72,"updated":"May 2023"},
+        "total_pills":4,
+        "pill_details":[
+            {"id":1,"name":"Crocin","dosage":2,"time":"5pm"},
+            {"id":2,"name":"Paracetamol","dosage":1,"time":"6am"},
+            {"id":3,"name":"Dolo","dosage":2,"time":"5pm"},
+            {"id":4,"name":"Aspirin","dosage":3,"time":"2pm"}
+        ]
+    }
+]
